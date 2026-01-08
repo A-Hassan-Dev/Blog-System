@@ -1,4 +1,4 @@
-# PHP Blog System
+# PHP Blog Systems
 
 A professional, responsive blog management system built with PHP and MySQL. This project features a clean user interface for readers and a comprehensive admin panel for content creators.
 
@@ -58,3 +58,4 @@ blog_system/
 
 ---
 Built with ❤️ for simple and effective blogging.
+
