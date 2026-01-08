@@ -23,7 +23,7 @@ A professional, responsive blog management system built with PHP and MySQL. This
 - **Framework**: Bootstrap 5.3
 - **Icons**: Bootstrap Icons
 
-## 📋 Installation
+## → Installation
 
 1. **Clone the project** to your local server directory (e.g., `htdocs` or `www`).
 2. **Setup Database**:
